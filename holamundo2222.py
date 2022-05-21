@@ -8,3 +8,5 @@ while True:
         break
 
 print(":)")
+
+r = range(3)
