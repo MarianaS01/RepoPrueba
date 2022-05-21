@@ -6,3 +6,5 @@ while True:
     print("____")
     if (a > 3):
         break
+
+print(":)")
